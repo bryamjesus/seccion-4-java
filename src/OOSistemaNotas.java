@@ -46,6 +46,5 @@ public class OOSistemaNotas {
         double promedioAlumno = ((claseHistoria[id] + claseLenguaje[id] + claseMatematicas[id]) / 3);
 
         System.out.println("Promedio Alumno = " + "ID " + promedioAlumno);
-
     }
 }

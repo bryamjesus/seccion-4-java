@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seccion-4-arreglos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AAEjemploArregloInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BBEjemploArregloString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CCIterandoArreglosFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DDIterarInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EEModificarArregloInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FFOrdenarArrayMetodoBurbuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GGMejoraMetodoBurjuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HHBurbujaInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IIEjemploArregloOrdenPrincipioFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JJArreglosCombinados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KKArreglosCombinados2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LLNumMayorArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNImparPar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOSistemaNotas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/1_arreglos.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/2_ordenar_burbuja.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PPBuscarArregloInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PPBuscarArregloString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOSistemaNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOSistemaNotas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,21 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OOSistemaNotas">
-    <configuration name="KKArreglosCombinados2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KKArreglosCombinados2" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LLNumMayorArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LLNumMayorArreglo" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PPBuscarArregloString">
     <configuration name="MMDetectarOrden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MMDetectarOrden" />
       <module name="seccion-4-arreglos" />
@@ -106,13 +74,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PPBuscarArregloInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PPBuscarArregloInt" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PPBuscarArregloString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PPBuscarArregloString" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PPBuscarArregloString" />
+        <item itemvalue="Application.PPBuscarArregloInt" />
         <item itemvalue="Application.OOSistemaNotas" />
         <item itemvalue="Application.NNImparPar" />
         <item itemvalue="Application.MMDetectarOrden" />
-        <item itemvalue="Application.LLNumMayorArreglo" />
-        <item itemvalue="Application.KKArreglosCombinados2" />
       </list>
     </recent_temporary>
   </component>
