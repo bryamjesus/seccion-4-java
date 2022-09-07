@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PPBuscarArregloInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PPBuscarArregloString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoverUltimoElmentoAlInicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/3_desplazamiento_elementos.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOSistemaNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOSistemaNotas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +52,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PPBuscarArregloString">
-    <configuration name="MMDetectarOrden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MMDetectarOrden" />
+  <component name="RunManager" selected="Application.MoverUltimoElmentoAlInicio">
+    <configuration name="MoverUltimoElmentoAlInicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoverUltimoElmentoAlInicio" />
       <module name="seccion-4-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoverUltimoElmentoAlInicio" />
         <item itemvalue="Application.PPBuscarArregloString" />
         <item itemvalue="Application.PPBuscarArregloInt" />
         <item itemvalue="Application.OOSistemaNotas" />
         <item itemvalue="Application.NNImparPar" />
-        <item itemvalue="Application.MMDetectarOrden" />
       </list>
     </recent_temporary>
   </component>
