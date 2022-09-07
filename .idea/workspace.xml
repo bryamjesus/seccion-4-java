@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoverUltimoElmentoAlInicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/3_desplazamiento_elementos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploAgregarMoviendoSiguiente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploAgregarMoviendoSiguienteMia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -52,30 +51,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MoverUltimoElmentoAlInicio">
+  <component name="RunManager" selected="Application.EjemploAgregarMoviendoSiguiente">
+    <configuration name="EjemploAgregarMoviendoSiguiente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploAgregarMoviendoSiguiente" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploAgregarMoviendoSiguienteMia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploAgregarMoviendoSiguienteMia" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploArreglosDesplazarPosicion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploArreglosDesplazarPosicion" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MoverUltimoElmentoAlInicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MoverUltimoElmentoAlInicio" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NNImparPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NNImparPar" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOSistemaNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOSistemaNotas" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PPBuscarArregloInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PPBuscarArregloInt" />
       <module name="seccion-4-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploAgregarMoviendoSiguiente" />
+        <item itemvalue="Application.EjemploAgregarMoviendoSiguienteMia" />
+        <item itemvalue="Application.EjemploArreglosDesplazarPosicion" />
         <item itemvalue="Application.MoverUltimoElmentoAlInicio" />
         <item itemvalue="Application.PPBuscarArregloString" />
-        <item itemvalue="Application.PPBuscarArregloInt" />
-        <item itemvalue="Application.OOSistemaNotas" />
-        <item itemvalue="Application.NNImparPar" />
       </list>
     </recent_temporary>
   </component>

@@ -14,4 +14,7 @@ Para esta solucion se tiene que empezar desde la última posición para así pod
 > [Solucion Mia](src/MoverUltimoElmentoAlInicio.java) \
 > [Solucion](src/EjemploArreglosDesplazarPosicion.java)
 
- 
+## Agregar un elemento en una posicion indicada, moviendo los siguientes
+
+> [Solucion Mia](src/EjemploAgregarMoviendoSiguienteMia.java) \
+> [Solucion](src/EjemploAgregarMoviendoSiguiente.java)
