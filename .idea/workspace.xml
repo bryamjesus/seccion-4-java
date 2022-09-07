@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seccion-4-arreglos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAEjemploArregloInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BBEjemploArregloString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CCIterandoArreglosFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DDIterarInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EEModificarArregloInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FFOrdenarArrayMetodoBurbuja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GGMejoraMetodoBurjuja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HHBurbujaInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IIEjemploArregloOrdenPrincipioFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JJArreglosCombinados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KKArreglosCombinados2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLNumMayorArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NNImparPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOSistemaNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/1_arreglos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/2_ordenar_burbuja.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EMKXLq8Ct3Ayv1WrNJ8SbBDgOs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ESTUDIO/ESTUDIO/ESTUDIOS/UDEMY/MASTER-COMPLETO-JAVA-DE-CERO-A-EXPERTO-2022/java-curso-udemy&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ESTUDIO\ESTUDIO\ESTUDIOS\UDEMY\MASTER-COMPLETO-JAVA-DE-CERO-A-EXPERTO-2022\seccion-4-arreglos\src\assets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OOSistemaNotas">
+    <configuration name="KKArreglosCombinados2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KKArreglosCombinados2" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LLNumMayorArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLNumMayorArreglo" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MMDetectarOrden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MMDetectarOrden" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NNImparPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NNImparPar" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOSistemaNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOSistemaNotas" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOSistemaNotas" />
+        <item itemvalue="Application.NNImparPar" />
+        <item itemvalue="Application.MMDetectarOrden" />
+        <item itemvalue="Application.LLNumMayorArreglo" />
+        <item itemvalue="Application.KKArreglosCombinados2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="" />
+      <created>1662400052124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662400052124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
