@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TTEliminarElementoArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TTEliminarElementoArregloSolucion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UUInserarElementoIncrementandoTamañoArreglo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TTEliminarElementoArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TTEliminarElementoArreglo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +51,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TTEliminarElementoArreglo">
-    <configuration name="AgregarElementoArrayOrdenado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AgregarElementoArrayOrdenado" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UUInserarElementoIncrementandoTamañoArreglo">
     <configuration name="AgregarElementoArrayOrdenadoMia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgregarElementoArrayOrdenadoMia" />
-      <module name="seccion-4-arreglos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploAgregarMoviendoSiguiente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploAgregarMoviendoSiguiente" />
       <module name="seccion-4-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,13 +73,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UUInserarElementoIncrementandoTamañoArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UUInserarElementoIncrementandoTamañoArreglo" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UUInserarElementoIncrementandoTamañoArregloSolucion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UUInserarElementoIncrementandoTamañoArregloSolucion" />
+      <module name="seccion-4-arreglos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UUInserarElementoIncrementandoTamañoArreglo" />
+        <item itemvalue="Application.UUInserarElementoIncrementandoTamañoArregloSolucion" />
         <item itemvalue="Application.TTEliminarElementoArreglo" />
         <item itemvalue="Application.TTEliminarElementoArregloSolucion" />
         <item itemvalue="Application.AgregarElementoArrayOrdenadoMia" />
-        <item itemvalue="Application.AgregarElementoArrayOrdenado" />
-        <item itemvalue="Application.EjemploAgregarMoviendoSiguiente" />
       </list>
     </recent_temporary>
   </component>

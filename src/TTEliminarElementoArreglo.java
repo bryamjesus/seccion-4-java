@@ -25,6 +25,7 @@ public class TTEliminarElementoArreglo {
         int[] b = new int[numeros.length-1];
         System.arraycopy(numeros,0, b,0,b.length);
 
+        /* numeros = b; */  // por si quieres que el array inicial obtenga los cambios
         for (int i = 0; i < b.length -1; i++) {
             System.out.println( i +" = " +b[i]);
         }

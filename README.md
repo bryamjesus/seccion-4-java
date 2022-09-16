@@ -61,5 +61,14 @@ Para esta solucion se tiene que empezar desde la última posición para así pod
 > [Solucion](src/AgregarElementoArrayOrdenado.java)
 
 ## Eliminar un elemento del arreglo
+
 > [Solucion Mia](src/TTEliminarElementoArregloSolucion.java)
 > [Solucion](src/TTEliminarElementoArreglo.java)
+
+## Insertando un nuevo elementoe incrementando el tamaño del arreglo
+
+```java
+System.arraycopy(array,0,arrayACopiar,0,largoCantidadElementosCopiados);
+```
+
+> [Solucion](src/UUInserarElementoIncrementandoTamañoArreglo.java)
