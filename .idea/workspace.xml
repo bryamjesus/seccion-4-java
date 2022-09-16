@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc2e283c-16b8-4883-b1dd-fb61ec03b5d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AgregarElementoArrayOrdenado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AgregarElementoArrayOrdenadoMia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TTEliminarElementoArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TTEliminarElementoArregloSolucion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -31,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/ESTUDIO/ESTUDIO/ESTUDIOS/UDEMY/MASTER-COMPLETO-JAVA-DE-CERO-A-EXPERTO-2022/java-curso-udemy&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/ESTUDIOS/UDEMY/MASTER-COMPLETO-JAVA-DE-CERO-A-EXPERTO-2022/seccion-4-arreglos",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\ESTUDIO\ESTUDIO\ESTUDIOS\UDEMY\MASTER-COMPLETO-JAVA-DE-CERO-A-EXPERTO-2022\seccion-4-arreglos\src\assets" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AgregarElementoArrayOrdenadoMia">
+  <component name="RunManager" selected="Application.TTEliminarElementoArreglo">
     <configuration name="AgregarElementoArrayOrdenado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgregarElementoArrayOrdenado" />
       <module name="seccion-4-arreglos" />
@@ -73,15 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploAgregarMoviendoSiguienteMia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploAgregarMoviendoSiguienteMia" />
+    <configuration name="TTEliminarElementoArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TTEliminarElementoArreglo" />
       <module name="seccion-4-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploArreglosDesplazarPosicion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploArreglosDesplazarPosicion" />
+    <configuration name="TTEliminarElementoArregloSolucion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TTEliminarElementoArregloSolucion" />
       <module name="seccion-4-arreglos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TTEliminarElementoArreglo" />
+        <item itemvalue="Application.TTEliminarElementoArregloSolucion" />
         <item itemvalue="Application.AgregarElementoArrayOrdenadoMia" />
         <item itemvalue="Application.AgregarElementoArrayOrdenado" />
         <item itemvalue="Application.EjemploAgregarMoviendoSiguiente" />
-        <item itemvalue="Application.EjemploAgregarMoviendoSiguienteMia" />
-        <item itemvalue="Application.EjemploArreglosDesplazarPosicion" />
       </list>
     </recent_temporary>
   </component>
