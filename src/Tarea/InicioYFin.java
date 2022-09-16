@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class InicioYFin {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
+
         int[] a = new int[10];
         int longitud = a.length - 1;
 
